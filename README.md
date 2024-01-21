@@ -1,45 +1,46 @@
 # Keletso Madidimalo
 
-## Business Systems Analyst | AWS | Azure
+## Business Systems Analyst | Microsoft 365 | Azure | AWS | Cybersecurity
 
-Welcome to my GitHub profile! 👋 I'm Keletso, a skilled Business Systems Analyst with expertise in AWS and Azure. I enjoy solving complex business challenges by leveraging cloud technologies. Explore my repositories to find projects, scripts, and tools related to cloud computing and business systems analysis.
+Welcome to my GitHub profile! I'm a results-driven Business Systems Analyst with expertise in Microsoft 365, Azure, AWS, and Cybersecurity. I specialize in [mention any specific areas or industries you focus on].
 
-### 🔧 Skills
+### Skills
 
-- **AWS:** Describe your AWS skills and specific services you are proficient in.
-- **Azure:** Highlight your expertise in Azure and specific services you have experience with.
-- **Business Systems Analysis:** Showcase your skills in analyzing and improving business processes.
+- **Microsoft 365:** [List specific Microsoft 365 skills or applications you're proficient in]
+- **AWS:** [List specific AWS services you're experienced with]
+- **Azure:** [Highlight your expertise in Azure services]
+- **Cybersecurity:** [Mention cybersecurity skills and tools you specialize in]
 
-### 🌐 Connect with Me
+### Projects
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
+Here are some notable projects I've worked on:
 
-### 📂 Featured Repositories
+1. **[Project Name]:** Brief description of the project.
+   - Technologies used: [List relevant technologies]
+   - [Add any specific achievements or outcomes]
 
-1. [Repository Name 1](link-to-repo-1): Brief description of the repository.
-   ![Repository 1 Image](link-to-image-1)
+2. **[Project Name]:** Brief description of the project.
+   - Technologies used: [List relevant technologies]
+   - [Add any specific achievements or outcomes]
 
-2. [Repository Name 2](link-to-repo-2): Brief description of the repository.
-   ![Repository 2 Image](link-to-image-2)
+### Certifications
 
-### 📈 GitHub Stats
+- [List any relevant certifications you hold]
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs)
+### Contact
 
-### 📝 Latest Blog Posts
+Feel free to connect with me on [LinkedIn](#) or [Twitter](#). I'm open to collaboration and discussions on topics related to my expertise.
 
-- [Blog Post 1 Title](link-to-blog-post-1): Summary of the blog post.
-- [Blog Post 2 Title](link-to-blog-post-2): Summary of the blog post.
+### ![GitHub Stats](GitHubStatsImageURL)
+<!-- Add an image showcasing your GitHub statistics using a tool like shields.io -->
 
-### 📫 Contact
+### Connect with Me
 
-Feel free to reach out to me for collaboration or discussions.
+[![LinkedIn](LinkedInImageURL)](YourLinkedInProfileURL)
+[![Twitter](TwitterImageURL)](YourTwitterProfileURL)
 
-- Email: keletsom@proton.me
+<!-- Add badges linking to your LinkedIn, Twitter, or any other relevant profiles -->
 
-### 🚀 Let's Collaborate!
+---
 
-I'm open to collaborations and contributions. If you find any of my projects interesting or have ideas for collaboration, feel free to create issues or pull requests.
-
-Happy coding! 🚀
+**Let's collaborate and innovate!**
