@@ -1,18 +1,45 @@
-<h1 align="center">Hi 👋, I'm Keletso</h1>
-<h3 align="center">A Business Systems Analyst passionate about Cybersecurity</h3>
+# Keletso Madidimalo
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberkels&label=Profile%20views&color=0e75b6&style=flat" alt="cyberkels" /> </p>
+## Business Systems Analyst | AWS | Azure
 
-- 🌱 I’m currently learning **Cloud Security and Artificial Intelligence**
+Welcome to my GitHub profile! 👋 I'm Keletso, a skilled Business Systems Analyst with expertise in AWS and Azure. I enjoy solving complex business challenges by leveraging cloud technologies. Explore my repositories to find projects, scripts, and tools related to cloud computing and business systems analysis.
 
-- 🤝 I’m looking for help with **Artificial Intelligence**
+### 🔧 Skills
 
-- 📫 How to reach me **keletsom@proton.me**
+- **AWS:** Describe your AWS skills and specific services you are proficient in.
+- **Azure:** Highlight your expertise in Azure and specific services you have experience with.
+- **Business Systems Analysis:** Showcase your skills in analyzing and improving business processes.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🌐 Connect with Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
 
+### 📂 Featured Repositories
+
+1. [Repository Name 1](link-to-repo-1): Brief description of the repository.
+   ![Repository 1 Image](link-to-image-1)
+
+2. [Repository Name 2](link-to-repo-2): Brief description of the repository.
+   ![Repository 2 Image](link-to-image-2)
+
+### 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs)
+
+### 📝 Latest Blog Posts
+
+- [Blog Post 1 Title](link-to-blog-post-1): Summary of the blog post.
+- [Blog Post 2 Title](link-to-blog-post-2): Summary of the blog post.
+
+### 📫 Contact
+
+Feel free to reach out to me for collaboration or discussions.
+
+- Email: keletsom@proton.me
+
+### 🚀 Let's Collaborate!
+
+I'm open to collaborations and contributions. If you find any of my projects interesting or have ideas for collaboration, feel free to create issues or pull requests.
+
+Happy coding! 🚀
