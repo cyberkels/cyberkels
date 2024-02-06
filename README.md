@@ -2,7 +2,7 @@
 
 ## Business Systems Analyst | Microsoft 365 | Azure | AWS | Cybersecurity
 
-<a href="www.linkedin.com/in/cyberkels"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/cyberkels"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Welcome to my GitHub profile! I'm a results-driven Business Systems Analyst with expertise in Microsoft 365, Azure, AWS, and Cybersecurity. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
