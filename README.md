@@ -11,11 +11,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Skills
 
 - **Microsoft 365:** Exchange Online, Sharepoint, Teams
-- **AWS:** [List specific AWS services you're experienced with]
-- **Azure:** [Highlight your expertise in Azure services]
-- **Cybersecurity:** [Mention cybersecurity skills and tools you specialize in]
+- **AWS:** AWS Networking, AWS Security, AWS Compute, AWS Storage
+- **Azure:** Azure Virtual Networks, Azure Virtual Machines
+- **Cybersecurity:** Authentication & Access Management, Threat & Vulnerability Management, Privacy & Data Confidentiality, Identity Protection
 
-## Skills
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -31,12 +31,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Cloud
 <div>
    <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/" />
+   <img src="https://img.shields.io/badge/-AWS%20Networking-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/products/networking/" />
    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?&style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/" />
+   <img src="https://img.shields.io/badge/-Azure%20Virtual%20Machines-0089D6?&style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/virtual-machines/" />
+   
 </div>
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NMAP-001F3F?&style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
@@ -55,7 +59,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Certifications
 
-- [List any relevant certifications you hold]
 <div>
 <img src="https://img.shields.io/badge/-ITIL%20Foundation-32A5E6?&style=for-the-badge)](https://www.axelos.com/certifications/itil-certifications" />
 <img src="https://img.shields.io/badge/-Microsoft%20365%20Certified%3A%20Administrator%20Expert-0072C6?&style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/learning/certification-overview.aspx" />
