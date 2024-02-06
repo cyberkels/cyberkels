@@ -46,12 +46,15 @@ Welcome to my GitHub profile! I'm a results-driven Business Systems Analyst with
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kaspersky%20Small%20Office%20Security-0066cc?&style=for-the-badge&logo=Kaspersky&logoColor=white)](https://www.kaspersky.com/small-office-security" />
+    <img src="https://img.shields.io/badge/-Tenable%20Nessus-339933?&style=for-the-badge&logo=Tenable&logoColor=white)](https://www.tenable.com/products/nessus" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WAZUH-0066cc?&style=for-the-badge&logo=WAZUH&logoColor=white)](https://wazuh.com/" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
