@@ -66,8 +66,8 @@ Welcome to my GitHub profile! I'm a results-driven Business Systems Analyst with
 <img src="https://img.shields.io/badge/-Microsoft%20Certified%3A%20Security%20Operations%20Analyst%20Associate-0089D6?&style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/learning/certification-overview.aspx" />
 <img src="https://img.shields.io/badge/-Microsoft%20Certified%3A%20Identity%20and%20Access%20Administrator%20Associate-0072C6?&style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/learning/certification-overview.aspx" />
 <img src="https://img.shields.io/badge/-Microsoft%20Certified%3A%20Azure%20AI%20Fundamentals-0089D6?&style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/learning/certification-overview.aspx" />
-<img src="https://img.shields.io/badge/-CC-0053A0?&style=for-the-badge&logo=isc2&logoColor=white)](https://www.isc2.org/" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Certified%20in%20Cybersecurity-0053A0?style=for-the-badge&logo=isc2&logoColor=white)](https://www.isc2.org/" />
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/" />
 </div>
 
 
