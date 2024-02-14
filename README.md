@@ -1,5 +1,7 @@
 # Keletso Madidimalo
 
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
+
 ## Business Systems Analyst | Microsoft 365 | Azure | AWS | Cybersecurity
 
 <a href="www.linkedin.com/in/cyberkels"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
