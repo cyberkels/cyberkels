@@ -74,7 +74,7 @@ Welcome to my GitHub profile! I'm a results-driven Business Systems Analyst with
 
 
 ## Projects
-- Detection Lab
+- Network Analysis
 - SOC Automation Project
-- Cloud (AWS) Cybersecurity home lab
+- Cloud (AWS) home lab
 - SIEM (Microsoft Sentinel) Integration with Artificial Intelligence (ChatGPT)
