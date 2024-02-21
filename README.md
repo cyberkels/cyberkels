@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a results-driven Business Systems Analyst with
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Cloud architecting                            | Cloud HomeLab |
+| Cloud architecting                            | AWS Cloud HomeLab |
 
 ## Tools
 
@@ -77,6 +77,6 @@ Welcome to my GitHub profile! I'm a results-driven Business Systems Analyst with
 ## Projects
 - Network Analysis
 - SOC Automation Project
-- Cloud (AWS) home lab
+- AWS Cloud home lab
 - <a href="https://github.com/cyberkels/SIEM_Implementation">SIEM Implementation</a>
 - SIEM (Microsoft Sentinel) Integration with Artificial Intelligence (ChatGPT)
