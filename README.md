@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a results-driven Business Systems Analyst with
 
 - **Microsoft 365:** Exchange Online, Sharepoint, Teams
 - **AWS:** AWS Networking, AWS Security, AWS Compute, AWS Storage
-- **Azure:** Azure Virtual Networks, Azure Virtual Machines
+- **Azure:** Azure Virtual Networks, Azure Virtual Machines, Microsoft Sentinel
 - **Cybersecurity:** Authentication & Access Management, Threat & Vulnerability Management, Privacy & Data Confidentiality, Identity Protection
 
 
