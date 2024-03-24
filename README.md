@@ -77,7 +77,6 @@ Welcome to my GitHub profile! I'm a results-driven Business Systems Analyst with
 ## Projects
 - Network Analysis
 - SOC Automation Project
-- AWS Cloud home lab
 - <a href="https://github.com/cyberkels/AWS_Cloud_Home_Lab/">AWS Cloud Home Lab</a>
 - <a href="https://github.com/cyberkels/SIEM_Implementation">SIEM Implementation</a>
 - SIEM (Microsoft Sentinel) Integration with Artificial Intelligence (ChatGPT)
