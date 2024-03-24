@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a results-driven Business Systems Analyst with
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Cloud architecting                            | AWS Cloud HomeLab |
+| Cloud architecting                            | <a href="https://github.com/cyberkels/AWS_Cloud_Home_Lab/">AWS Cloud Home Lab</a>|
 
 ## Tools
 
