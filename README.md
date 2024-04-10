@@ -71,8 +71,6 @@ Welcome to my GitHub profile! I'm a results-driven Business Systems Analyst with
 
 
 ## Projects
-- Network Analysis
 - <a href="https://github.com/cyberkels/Azure_Cloud_honeypot/">Azure Cloud Honeypot</a>
 - <a href="https://github.com/cyberkels/AWS_Cloud_Home_Lab/">AWS Cloud Home Lab</a>
-- <a href="https://github.com/cyberkels/SIEM_Implementation">SIEM Implementation</a>
-- SIEM (Microsoft Sentinel) Integration with Artificial Intelligence (ChatGPT)
+- <a href="https://github.com/cyberkels/SIEM_Implementation">SIEM (Microsoft Sentinel) Implementation</a>
