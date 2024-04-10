@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a results-driven Business Systems Analyst with
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Deploy OpenAI to Microsoft Sentinel           | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Deploying a honeypot in the cloud             | <a href="https://github.com/cyberkels/AWS_Cloud_Home_Lab/">Azure Cloud Honeypot Lab</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Cloud architecting                            | <a href="https://github.com/cyberkels/AWS_Cloud_Home_Lab/">AWS Cloud Home Lab</a>|
 
@@ -76,7 +76,7 @@ Welcome to my GitHub profile! I'm a results-driven Business Systems Analyst with
 
 ## Projects
 - Network Analysis
-- SOC Automation Project
+- <a href="https://github.com/cyberkels/Cloud_honeypot/">Cloud Honeypot</a>
 - <a href="https://github.com/cyberkels/AWS_Cloud_Home_Lab/">AWS Cloud Home Lab</a>
 - <a href="https://github.com/cyberkels/SIEM_Implementation">SIEM Implementation</a>
 - SIEM (Microsoft Sentinel) Integration with Artificial Intelligence (ChatGPT)
