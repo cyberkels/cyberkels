@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a results-driven Business Systems Analyst with
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/cyberkels/SIEM_Implementation">SIEM Implementation</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/cyberkels/SIEM_Implementation">SIEM (Microsoft Sentinel) Implementation</a>|
 | Deploying a honeypot in the cloud             | <a href="https://github.com/cyberkels/AWS_Cloud_Home_Lab/">Azure Cloud Honeypot Lab</a>|
 | Cloud architecting                            | <a href="https://github.com/cyberkels/AWS_Cloud_Home_Lab/">AWS Cloud Home Lab</a>|
 
